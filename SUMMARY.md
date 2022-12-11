@@ -9,4 +9,5 @@
 * [🆚 2 Verilog基础](chapter-2/README.md)
     * [2.1 Verilog可综合子集](chapter-2/verilog_syn.md)
     * [2.2 组合逻辑和时序逻辑](chapter-2/comb_dff.md)
-    * 
+    * [2.3 覆盖率检查](chapter-2/code_coverage.md)
+    *  
