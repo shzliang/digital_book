@@ -6,4 +6,7 @@
     * [1.2 Git对比差异](chapter-1/git_diff.md)
     * [1.3 SVN库迁移至Git](chapter-1/git_svn.md)
     
-    
+* [🆚 2 Verilog基础](chapter-2/README.md)
+    * [2.1 Verilog可综合子集](chapter-2/verilog_syn.md)
+    * [2.2 组合逻辑和时序逻辑](chapter-2/comb_dff.md)
+    * 
